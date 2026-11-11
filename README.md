@@ -1,6 +1,6 @@
 # Hi, I'm Manuel 👋
 
-I'm a **Software Engineering student** at Universidad Empresarial Siglo XXI, Argentina, with training in **full-stack development** and **data engineering**, and a growing interest in **cybersecurity**.
+I'm a **Software Engineering student**, Argentina, with training in **full-stack development**, and a growing interest in **cybersecurity**.
 
 I build developer tools and AI agent workflows, contribute to open source, and enjoy making software reliable, testable, and easier to use. I'm especially interested in the intersection of software engineering and security: understanding vulnerabilities, building safer applications, and protecting data.
 
