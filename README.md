@@ -51,9 +51,4 @@ A local-first, token-efficient PDF extraction and retrieval system for AI agents
 
 **Spoken languages:** Spanish (native) · English (advanced) · Portuguese (basic).
 
-## Principles
 
-- Make the interface simpler than the implementation.
-- Test behavior, failure modes, and compatibility—not just the happy path.
-- Treat privacy, security, and observability as design constraints.
-- Leave codebases easier to understand than I found them.
