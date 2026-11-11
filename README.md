@@ -1,8 +1,10 @@
 # Hi, I'm Manuel 👋
 
-I'm a software developer from Argentina focused on **developer tools**, **terminal experiences**, and **AI agent workflows**.
+I'm a **Software Engineering student** at Universidad Empresarial Siglo XXI, Argentina, with training in **full-stack development** and **data engineering**, and a growing interest in **cybersecurity**.
 
-I enjoy turning complex workflows into tools that are reliable, testable, and pleasant to use—especially across TypeScript, Python, CLIs, and TUIs.
+I build developer tools and AI agent workflows, contribute to open source, and enjoy making software reliable, testable, and easier to use. I'm especially interested in the intersection of software engineering and security: understanding vulnerabilities, building safer applications, and protecting data.
+
+[LinkedIn](https://www.linkedin.com/in/manuelrsabella/) · [Open-source contributions](https://github.com/pulls?q=is%3Apr+author%3Amanrods)
 
 ## What I'm working on
 
@@ -27,15 +29,27 @@ A local-first, token-efficient PDF extraction and retrieval system for AI agents
 
 [See all pull requests →](https://github.com/pulls?q=is%3Apr+author%3Amanrods)
 
-## Tools I reach for
+## Technical toolkit
 
-![TypeScript](https://img.shields.io/badge/TypeScript-171717?style=flat-square&logo=typescript&logoColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=node.js&logoColor=5FA04E)
-![Bun](https://img.shields.io/badge/Bun-171717?style=flat-square&logo=bun&logoColor=FBF0DF)
-![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=3776AB)
-![Rust](https://img.shields.io/badge/Rust-171717?style=flat-square&logo=rust&logoColor=DEA584)
-![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=F05032)
+**Languages**
+
+`Java` · `JavaScript` · `TypeScript` · `Python` · `SQL`
+
+**Web development**
+
+`HTML` · `CSS` · `React` · `Node.js` · `Express` · `REST APIs`
+
+**Data & infrastructure**
+
+`PostgreSQL` · `Supabase` · `Pandas` · `NumPy` · `ETL` · `Tableau` · `AWS` · `Docker` · `Git`
+
+## Learning & education
+
+- **Software Engineering** — Universidad Empresarial Siglo XXI, 2023–present.
+- **Full-stack development & data engineering training** — UTN. Built a gym subscription management platform with React, Node.js, PostgreSQL, Stripe, and PayPal as a training project.
+- **Cybersecurity coursework** — Fundación YPF LAB CAMPUS, 2026. Studying networking, access controls, vulnerability management, log analysis, and incident response fundamentals, with introductory exposure to Nmap, Wireshark, Nessus, and OpenVAS/GVM.
+
+**Spoken languages:** Spanish (native) · English (advanced) · Portuguese (basic).
 
 ## Principles
 
