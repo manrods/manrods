@@ -39,15 +39,20 @@ A local-first, token-efficient PDF extraction and retrieval system for AI agents
 
 `HTML` · `CSS` · `React` · `Node.js` · `Express` · `REST APIs`
 
-**Data & infrastructure**
+**Data engineering coursework**
 
-`PostgreSQL` · `Supabase` · `Pandas` · `NumPy` · `ETL` · `Tableau` · `AWS` · `Docker` · `Git`
+`PostgreSQL` · `Pandas` · `Requests` · `SQLAlchemy` · `Parquet` · `Apache Kafka fundamentals`
+
+**Developer tools & AI agents**
+
+`Git` · `Claude` · `Codex` · `Pi Coding Agent` · `MCP` · `Agent Skills`
 
 ## Learning & education
 
 - **Software Engineering** — Universidad Empresarial Siglo XXI, 2023–present.
-- **Full-stack development & data engineering training** — UTN. Built a gym subscription management platform with React, Node.js, PostgreSQL, Stripe, and PayPal as a training project.
-- **Cybersecurity coursework** — Fundación YPF LAB CAMPUS, 2026. Studying networking, access controls, vulnerability management, log analysis, and incident response fundamentals, with introductory exposure to Nmap, Wireshark, Nessus, and OpenVAS/GVM.
+- **Full-stack development training** — UTN. React, Node.js, Express, HTML, and CSS.
+- **Data Engineering training** — UTN Buenos Aires, Centro de e-Learning. Coursework covering data ingestion, cleaning, and transformation with Python and Pandas; integration with Requests and SQLAlchemy; storage with PostgreSQL and Parquet; and real-time processing fundamentals with Apache Kafka.
+- **Cybersecurity course — completed in 2026** — Fundación YPF LAB CAMPUS. Introductory training in networking, access controls, risks and vulnerabilities, log analysis, and incident response, with exposure to Nmap, Wireshark, Nessus, and OpenVAS/GVM.
 
 **Spoken languages:** Spanish (native) · English (advanced) · Portuguese (basic).
 
